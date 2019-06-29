@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Music Play</string>
+    <string name="artist_list">List all artists</string>
+    <string name="album_list">List Albums</string>
+    <string name="song_list">List all Songs</string>
+    <string name="genre_list">List all Genres</string>
+
+    <string name="artist">Artist Name</string>
+    <string name="followers">Followers</string>
+    <string name="album_number">Albums</string>
+
+
+    <string name="title_activity_album">album</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
